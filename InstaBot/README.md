@@ -14,5 +14,4 @@ The robot is built on a vitual machine - that's why the video/process runs a bit
 
 Link to the video on YouTube:
 
-<a href="https://youtu.be/397alquCe5w" target="_blank"><img src="https://i9.ytimg.com/vi/397alquCe5w/mq1.jpg?sqp=CJCN34IG&rs=AOn4CLCD2v90aIFhzs0apavNU4EG2jneSA" 
- width="240" border="10" /></a>
+<a href="https://youtu.be/397alquCe5w" target="_blank"><img src="https://i.ibb.co/KV6Cb6Y/mq1.jpg" border="10" /></a>
